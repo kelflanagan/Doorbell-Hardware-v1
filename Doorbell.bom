@@ -1,0 +1,37 @@
+Qty	Value		Device		Unit_Price
+
+1	LED3MM		LED
+4	M025MM		Screw_Terminal
+1	TAC_SWITCHPTH	Push_Button
+2	0.1uF		C
+1	1		R-US_0207/7
+4	1N4004          Diode
+1	1N5819-T        Zener
+2	2.2uF		C
+1	4.7k		R-US_0207/7
+2	12K		R-US_0207/7
+1	22uF		C
+2	100		R-US_0817/22
+4	100k		R-US_0207/7
+1	100uF		C
+1	220uF		C
+1	330		R-US_0207/7
+1	330uF		C 
+2	560		R-US_0207/7
+1	1000uH		Inductor
+1	2200uF		C 
+1	3300uF		C
+2	5600		R-US_0207/12
+1	6400BG_HEATSINK
+1	AT90USB1286
+1	DBDB101G	Rectifier
+1	LM2575		Regulator
+1	MICROSD
+2	OPI8013		Optoisolator
+1	STAND-OFF
+1	TDA2030A 	Amplifier
+1	VS1011E         mp3
+1	WIFLY_BREAKOUT  WiFi
+1	BRS35		Speaker
+1	PCB		Circuit_Board
+1	SD		MicroSD_Card
